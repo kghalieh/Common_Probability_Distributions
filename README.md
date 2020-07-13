@@ -1,4 +1,4 @@
-#Common Probability Distributions
+# Common Probability Distributions
 
 This project is to practise OOP in Python, in addition to building a python package, 
 The goal is to create a useful package for data science including the following probability functions: 
